@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AsyncRV.iml" filepath="$PROJECT_DIR$/AsyncRV.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sow_example_async_rv.iml" filepath="$PROJECT_DIR$/sow_example_async_rv.iml" />
     </modules>
   </component>
 </project>
